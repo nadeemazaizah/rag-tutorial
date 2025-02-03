@@ -1,0 +1,10 @@
+python-dotenv==1.0.1
+nest-asyncio==1.6.0
+llama-index-core==0.12.15
+install llama-index
+install llama-index-retrievers-bm25
+llama-index-vector-stores-lancedb
+llama-index-extractors-entity
+llama-index-llms-ollama
+llama-index-embeddings-ollama
+lancedb
